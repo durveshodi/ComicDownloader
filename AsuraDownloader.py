@@ -106,7 +106,7 @@ def show(data , mode):
 
 comicname , link = Comic_List()
 
-DownloadingList = ['Villain To Kill' , 'Worn and Torn Newbie']
+DownloadingList = ['Villain To Kill']
 
 show(DownloadingList ,  'ps')
 for name in DownloadingList:
